@@ -1,0 +1,27 @@
+
+T
+$src/main/resources/hibernate.cfg.xml,3/1/3176feae82bf4ff4f68f72c9d6d3b850a3110c22
+Y
+)src/main/java/practice/CreateCourses.java,b/1/b148d8fb78213f235671c05959953fb75bd01bd6
+Y
+)src/main/java/practice/DeleteCourses.java,7/f/7ffcec8753a3bc0397b318443a1401759d89f90c
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+P
+ src/main/java/jdbc/TestJdbc.java,9/8/988b9044f9ff2da93b6720a5fbbdbee6578a1505
+P
+ src/main/java/Entity/Course.java,c/9/c9f8a56373fe402743d6d36edaf74ce58bda6d27
+Z
+*src/main/java/Entity/InstructorDetail.java,9/a/9a3b2d9fe625eb83fb1bc44dc22fc02d3aa716c7
+T
+$src/main/java/Entity/Instructor.java,3/a/3acbe5ee59a1c00e41d3ccee20d81faafd1d95ec
+a
+1src/main/java/practice/GetInstructorsCourses.java,e/c/ec809550f72a203112e917799b3318712652784f
+U
+%src/main/java/practice/EagerLazy.java,2/2/2240f8d04e59e5625a21c7bc2fbad23fafcaac17
+U
+%src/main/java/practice/FetchJoin.java,3/b/3b361fff2857cdf7c22b0919d6b37815caf7d0e0
+Q
+!src/main/java/Entity/Student.java,b/9/b9030aa5f700cf28c156ee49db2fe623cd44b7ed
+\
+,src/main/java/practice/CreateInstructor.java,5/b/5b0355c1c6686ed28db6c8edbea089d31a65958c

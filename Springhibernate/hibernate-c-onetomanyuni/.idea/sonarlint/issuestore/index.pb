@@ -1,0 +1,19 @@
+
+a
+1src/main/java/practice/GetInstructorsCourses.java,e/c/ec809550f72a203112e917799b3318712652784f
+Z
+*src/main/java/Entity/InstructorDetail.java,9/a/9a3b2d9fe625eb83fb1bc44dc22fc02d3aa716c7
+Y
+)src/main/java/practice/DeleteCourses.java,7/f/7ffcec8753a3bc0397b318443a1401759d89f90c
+T
+$src/main/java/Entity/Instructor.java,3/a/3acbe5ee59a1c00e41d3ccee20d81faafd1d95ec
+Y
+)src/main/java/practice/CreateCourses.java,b/1/b148d8fb78213f235671c05959953fb75bd01bd6
+P
+ src/main/java/Entity/Review.java,b/e/be7ba988e0928eaff27758058fb3c779f041d5fa
+_
+/src/main/java/practice/GetInstructorDetail.java,9/2/92e495a4e33762211596604dbc56fed99fc8f228
+c
+3src/main/java/practice/CreateCoursesAndReviews.java,5/d/5d48a45d988be6e78b4dfb90b922219d7a673d82
+`
+0src/main/java/practice/GetCoursesAndReviews.java,5/b/5b8f51e17425c1455a896699b70cac4a255c2b7d
