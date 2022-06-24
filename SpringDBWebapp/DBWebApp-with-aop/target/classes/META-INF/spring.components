@@ -1,0 +1,6 @@
+com.practice.aspect.CRMLoggingAspect=org.springframework.stereotype.Component
+com.practice.controller.CustomerController=org.springframework.stereotype.Component
+com.practice.dao.CustomerDAOImplementation=org.springframework.stereotype.Component
+com.practice.entity.Customer=javax.persistence.Entity,javax.persistence.Table
+com.practice.service.CustomerServiceImplementation=org.springframework.stereotype.Component
+com.practice.testdb.TestDbServlet=javax.servlet.annotation.WebServlet
