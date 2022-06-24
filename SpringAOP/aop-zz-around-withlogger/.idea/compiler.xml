@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aop-z-after-returning" />
+        <module name="aop-pointcut-demo" />
+        <module name="aop-zz-around" />
+        <module name="aopdemo" />
+        <module name="aop-pointcut-combo-demo" />
+        <module name="aop-pointcut-read-joinpoints" />
+        <module name="aop-z-after-throwing" />
+        <module name="aop-zz-after-finally" />
+        <module name="aop-zz-around-withlogger" />
+        <module name="aop-pointcut-order-demo" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

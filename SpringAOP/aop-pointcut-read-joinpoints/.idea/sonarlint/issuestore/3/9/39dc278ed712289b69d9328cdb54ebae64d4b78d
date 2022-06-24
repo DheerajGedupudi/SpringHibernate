@@ -1,0 +1,9 @@
+
+\
+java:S1854+"?Remove this useless assignment to local variable "serviceCode".(ŒÒ®§8¸èŸñ˜0
+U
+java:S1854*"8Remove this useless assignment to local variable "name".(ÿ¥¨ı8¹èŸñ˜0
+F
+java:S1481*")Remove this unused "name" local variable.(ÿ¥¨ı8ÂèŸñ˜0
+M
+java:S1481+"0Remove this unused "serviceCode" local variable.(ŒÒ®§8ÄèŸñ˜0

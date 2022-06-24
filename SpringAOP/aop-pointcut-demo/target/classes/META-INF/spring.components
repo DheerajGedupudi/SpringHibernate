@@ -1,0 +1,4 @@
+com.practice.aop.DemoConfig=org.springframework.stereotype.Component
+com.practice.aspect.MyLoggingAspect=org.springframework.stereotype.Component
+com.practice.dao.AccountDAO=org.springframework.stereotype.Component
+com.practice.dao.MembershipDAO=org.springframework.stereotype.Component
