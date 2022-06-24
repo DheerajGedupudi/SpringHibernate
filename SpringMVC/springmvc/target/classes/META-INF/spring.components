@@ -1,0 +1,5 @@
+com.practice.controller.CustomerController=org.springframework.stereotype.Component
+com.practice.controller.HappyController=org.springframework.stereotype.Component
+com.practice.controller.HelloWorldController=org.springframework.stereotype.Component
+com.practice.controller.HomeController=org.springframework.stereotype.Component
+com.practice.controller.StudentController=org.springframework.stereotype.Component
